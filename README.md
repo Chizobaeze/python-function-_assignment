@@ -1,4 +1,4 @@
-# data Engineering assignment
+# Data Engineering assignment
 
 # Task 1
 Create a function that return the first name of anyone
